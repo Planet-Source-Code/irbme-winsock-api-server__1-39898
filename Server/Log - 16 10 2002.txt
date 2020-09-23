@@ -1,0 +1,7 @@
+
+NEW SESSION STARTED AT 23:30:23 ON 16/10/2002
+
+SocketWise Server is starting
+
+* Listening Socket Handle: 272
+* Server listening for connections on port 4000
